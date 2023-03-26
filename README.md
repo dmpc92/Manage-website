@@ -1,4 +1,4 @@
-The Challenge
+The Challenge: 
 Your challenge is to create this landing page and make it look as close as possible to the design.
 
 Your users should be able to:
