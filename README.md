@@ -1,3 +1,42 @@
+The Challenge
+Your challenge is to create this landing page and make it look as close as possible to the design.
+
+Your users should be able to:
+
+See the optimal design for the site based on their device screen size
+The aspects we will consider for correctness are as follows:
+-Correct HTML structure
+-Use and correct implementation of semantic tags
+-Adaptability to two types of devices
+-Correct implementation of the form
+-Images, icons, fonts, background
+-Implementation of Flexbox
+-Best practices in CSS
+-Pseudo-elements and Pseudo-classes
+-(optional) ---> Small animations
+Where to Find Everything
+Your task is to build the project with the designs within the /design folder. You will find a mobile and desktop version of the design.
+
+The mobile design is in static JPG format. If you want to make aesthetic changes, you can do so to your liking.
+
+A link to Figma [https://www.figma.com/file/3PSyK3KYcmvbwK2OVFjFWm/Nico-Digital?node-id=4%3A2] is provided, but the previous sentence indicates that you do not always have to follow everything this tool tells you.
+
+You will find all necessary resources in the /images folder. The assets are already optimized.
+
+There is also a style-guide.md file that contains the necessary information, such as the color palette and fonts.
+
+Building Your Project
+Feel free to use any workflow that you feel comfortable with. Below is a suggested process:
+
+Review the designs to start planning how you will tackle the project. This step is crucial to help you think ahead so that CSS classes create reusable styles.
+Before adding any styles, structure your content with HTML. Writing your HTML first can help you focus your attention on creating well-structured content.
+Write the base styles for your project, including general content styles such as font-family and font-size.
+Start adding styles at the top of the page and work your way down.
+Leave comments in the code if you believe it is necessary.
+
+
+____________________________________________________________ Español ______________________________________________________________________________
+
 ## El reto
 
 Su desafío es crear esta página de destino y hacer que se parezca lo más posible al diseño.
